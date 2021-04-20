@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kaden's Website
 
 You can use the [editor on GitHub](https://github.com/KMorgan21/squidsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
